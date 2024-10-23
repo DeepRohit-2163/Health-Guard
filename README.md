@@ -1,4 +1,4 @@
-<h1>HealthGuard: Comprehensive Multi-Disease Detection System</h1>
+<h1>HealthGuard: A Comprehensive Multi-Disease Detection System</h1>
 
 HealthGuard is a sophisticated web-based platform designed for precise multi-disease classification using state-of-the-art AI algorithms. This project aims to address the pressing need for accurate disease detection in contemporary healthcare settings by employing deep learning techniques to improve patient outcomes amidst escalating rates of chronic diseases and healthcare expenditures.By meticulously curating datasets, implementing rigorous preprocessing steps, and conducting advanced model training, HealthGuard ensures robust and reliable disease classification. Analysis of performance metrics demonstrates its effectiveness across diverse disease categories. HealthGuard signifies a notable advancement in AI-driven healthcare solutions, offering the promise of enhanced diagnostic capabilities and improved patient care outcomes.
 
